@@ -6,43 +6,42 @@ Foue-Square is a pixel perfect creative multi purpose HTML5 Template designed wi
 
 
 ===========Main Features======
-4 Multiple Design with different color
-Bootstrap v4.0
-Js Particels
-Owl Slider
-Clean code
-Responsive desgin
-Sticky Menu
-Parralax
-Well Documented
-Smooth animation
-Google Maps easy
-Powerful elements
-Browser compatibility (IE9+, Chrome, Safari, Firefox, Opera)
-Well documented
-Clear & Neat design
-Accurate HTML code with comments
-Multi Page Demos
-Easy to customize: backgrounds, color schemes, content
-100% Responsive Layout
-W3C Valid HTML
-Google Maps
-Nice Animations
-Portfolio Lightbox
+✍4 Multiple Design with different color
+✍Bootstrap v4.0
+✍Js Particels
+✍Owl Slider
+✍Clean code
+✍Responsive desgin
+✍Sticky Menu
+✍Parralax
+✍Well Documented
+✍Smooth animation
+✍Google Maps easy
+✍Powerful elements
+✍Browser compatibility (IE9+, Chrome, Safari, Firefox, Opera)
+✍Well documented
+✍Clear & Neat design
+✍Accurate HTML code with comments
+✍Multi Page Demos
+✍Easy to customize: backgrounds, color schemes, content
+✍100% Responsive Layout
+✍W3C Valid HTML
+✍Google Maps
+✍Nice Animations
+✍Portfolio Lightbox
 
-Source & Credits ============= 
-BootStrap 4 
-Google font 
-Javascript Jquery Library
-Font Awesome 5 
+===========Source & Credits ============= 
+✍BootStrap 4 
+✍Google font 
+✍Javascript Jquery Library
+✍Font Awesome 5 
 ----photo credit---- 
-Pexels.com Image are only for demo purpose.
+✍Pexels.com Image are only for demo purpose.
 ========= what you get? ===== 
-HTML File Documentation file
+✍HTML File Documentation file
 =========== Thanks ======== 
-please dont Forget to Leave your Feedback. Do you have any problem just send Me a message here radwancse503@gmail.com. Thank You for your time.
+✍please dont Forget to Leave your Feedback. Do you have any problem just send Me a message here radwancse503@gmail.com. Thank You for your time.
 
-
-N.B: I develop this template for themeforest but the template reject.Now Its Free.You Can Download and use it personal work.
+⌛ N.B: I develop this template for themeforest but the template reject.Now Its Free.You Can Download and use it personal work.
 
 
