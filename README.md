@@ -42,6 +42,11 @@ Foue-Square is a pixel perfect creative multi purpose HTML5 Template designed wi
 =========== Thanks ======== 
 ✍please dont Forget to Leave your Feedback. Do you have any problem just send Me a message here radwancse503@gmail.com. Thank You for your time.
 
-⌛ N.B: I develop this template for themeforest but the template reject.Now Its Free.You Can Download and use it personal work.
+⌛ N.B: I develop this template for themeforest but the template reject.Now Its Free.You Can Download and use it personal work.if you need contact knock me.
+
+Facebook:https://www.facebook.com/Radwandevs/?modal=admin_todo_tour
+Twitter:https://twitter.com/RadwanAnik
+Linkedin:www.linkedin.com/in/radwan-ahmed-b52950100
+Behance:https://www.behance.net/ahmedradwa8b76
 
 
