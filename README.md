@@ -1,6 +1,8 @@
 # Foue-Square-Multipurpose-Template
 
 Live Demo:http://nerd-ic.com/
+Behance:https://www.behance.net/gallery/74946649/Foue-Square-Multipurpose-Template
+Youtube:https://www.youtube.com/channel/UCG1Gj1CcdkbXh3crT-CNEkw/videos
 
 Foue-Square is a pixel perfect creative multi purpose HTML5 Template designed with great attention to details, flexibility and performance. It is professional, smooth and sleek, with a clean modern layout.   vibrant and fully responsive HTML5 and CSS3 multi-purpose website template for corporate, agencies, freelancers, individuals as well as any type of businesses, If you are a lover of creative designs and would like to build a very unique and professional website quickly.
 
